@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="windowFrame">#343f70</color>
+    <color name="windowBack">#cc060620</color>
+    <color name="textColor">#3e3e3e</color>
+    <color name="textColor1">#38d6fd</color>
+    <color name="bgSet">#e8e8e8</color>
+    <color name="frame">#c5c5c5</color>
+    <color name="passw">#333333</color>
+    <color name="btn1">#ffba00</color>
+
+    <color name="sweet_color_1">#AEDEF4</color>
+    <color name="sweet_color_2">#ff009688</color>
+    <color name="sweet_color_3">#ff80cbc4</color>
+    <color name="sweet_color_4">#A5DC86</color>
+    <color name="sweet_color_5">#ff37474f</color>
+    <color name="sweet_color_6">#F8BB86</color>
+    <color name="tran_white_0">#00FFFFFF</color>
+    <color name="tran_white">#b0FFFFFF</color>
+
+    <color name="bg_trans_white">#cce0efe4</color>
+    <color name="bg_trans_green">#A5DC86</color>
+    <color name="bg_trans_yello">#ffba00</color>
+
+    <color name="text_black">#333333</color>
+    <color name="text_red">#ff2200</color>
+    <color name="text_light_red">#ff6e6e</color>
+    <color name="text_blue">#418dff</color>
+    <color name="text_gray">#bbbbbb</color>
+
+    <color name="def_wheel_color">#FFFFFF</color>
+    <color name="def_reached_color">#418dff</color>
+    <color name="def_pointer_color">#418dff</color>
+    <color name="text_color">#666666</color>
+    <color name="bg_color">#f0eff5</color>
+    <color name="linearLayout_bg_color">#ffffff</color>
+    <color name="light_value_text_color">#ffba00</color>
+    <color name="textColor_oragne">#ff7200</color>
+    <color name="textColor_blue">#0069df</color>
+    <color name="alarm_textColor">#ff7200</color>
+    <color name="text_setting">#3e3e3e</color>
+    <color name="actionbar_color">#2caeff</color>
+    <color name="while_color">#ffffff</color>
+
+
+
+
+    <color name="background_grey">#212227</color>
+</resources>

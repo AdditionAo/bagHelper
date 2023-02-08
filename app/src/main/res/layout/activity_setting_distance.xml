@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.Holo.Dialog"
+    tools:context=".SettingDistanceActivity">
+
+
+
+
+
+        <EditText
+
+            android:gravity="center"
+            android:text=""
+            android:id="@+id/et_distance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_marginLeft="5dp"
+            android:maxLength="100"
+            android:hint="点击设置报警距离"
+            android:inputType="textNoSuggestions"/>
+
+
+</LinearLayout>
